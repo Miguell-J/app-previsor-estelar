@@ -1,6 +1,6 @@
 <div align=center>
   
-# Previsor estelar
+# App Previsor estelar
 
 <img src="deploy_star_app.gif"/>
 </div>
