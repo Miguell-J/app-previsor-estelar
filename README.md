@@ -1,2 +1,1 @@
-# previsor-estelar
-app previsor estelar usando scikit-learn e streamlit
+- 🌌  [app previsor estelar](https://streamlit.io/gallery?category=science-technology)
