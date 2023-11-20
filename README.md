@@ -136,12 +136,6 @@ plt.title("Comparação entre Valores Reais e Previsões")
 plt.legend()
 plt.show()
 ```
-## Uso
-Para usar o modelo treinado para a previsão do tipo de estrela, siga estas etapas:
-
-- Clone o repositório: git clone https://github.com/<nome de usuário>/star-type-prediction.git
-- Instale as dependências: pip install -r requirements.txt
-- Execute o script de previsão: python predict_star_type.py
 
 ## Dependências
 O projeto requer as seguintes bibliotecas Python:
