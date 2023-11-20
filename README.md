@@ -152,4 +152,4 @@ joblib==1.1.0
 Instale as dependências usando o arquivo requirements.txt fornecido.
 
 ## Autor
-Este projeto foi criado por [Miguel Araújo Julio]. Para dúvidas ou contribuições, entre em contato com [julioaraujo.guel@gmail.com].
+Este projeto foi criado por Miguel Araújo Julio. Para dúvidas ou contribuições, entre em contato com julioaraujo.guel@gmail.com.
