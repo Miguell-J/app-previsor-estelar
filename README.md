@@ -1,1 +1,1 @@
-- 🌌  [app previsor estelar](https://streamlit.io/gallery?category=science-technology)
+- 🌌  [app previsor estelar](https://previsor-estelar.streamlit.app/)
